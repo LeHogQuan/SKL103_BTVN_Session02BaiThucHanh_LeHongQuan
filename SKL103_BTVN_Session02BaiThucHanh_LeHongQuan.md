@@ -45,8 +45,6 @@ Nhiệm vụ 2. Thiết lập tiêu chuẩn hoàn thành DoD
 
 -Font Times New Roman, cỡ chữ 13 hoặc 14; tiêu đề phân cấp rõ ràng.
 
--Giãn dòng 1,5; căn đều hai bên; lề trái 3 cm, phải 2 cm, trên 2 cm, dưới 2 cm.
-
 -Đã kiểm tra lỗi chính tả, số liệu, định dạng và tính thống nhất.
 
 -Tên file rõ ràng, mở được và đúng yêu cầu nộp bài.
@@ -60,8 +58,6 @@ Nhiệm vụ 2. Thiết lập tiêu chuẩn hoàn thành DoD
 -Có từ 8–12 slide, gồm tiêu đề, nội dung chính và kết luận.
 
 -Nội dung trình bày theo bố cục mở đầu – phương pháp – kết quả – kết luận.
-
--Cỡ chữ nội dung tối thiểu 24 pt; tiêu đề khoảng 28–36 pt.
 
 -Mỗi slide khoảng 3–6 dòng ý chính, tránh đoạn văn dài.
 
