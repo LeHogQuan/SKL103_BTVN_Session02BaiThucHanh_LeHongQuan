@@ -20,7 +20,7 @@ Nhóm chia bài tập thành 3 giai đoạn chính, mỗi giai đoạn gồm cá
 | | thiết kế slide dựa trên báo cáo và biểu đồ | hoàng | file powerpoint | 
 | 3.tập dượt và nộp lại | kiểm tra nội dung, số liệu và nguồn trích dẫn | Lan | báo cáo rà soát | 
 | | kiểm tra định dạng word và slide | trang | hai file dùng DoD |
-| | tập thuyết trình, cần tjowif gian | cả nhóm | bài thuyết trình hoàn chỉnh | 
+| | tập thuyết trình, cần thời gian | cả nhóm | bài thuyết trình hoàn chỉnh | 
 | | chỉnh sửa lỗi và thống nhất phiên bản cuối | cả nhóm | file cuối cùng | 
 | | nộp bài đúng hạn, kiểm tra file đã nộp | hoàng | bài tập được nộp thành công | 
 
