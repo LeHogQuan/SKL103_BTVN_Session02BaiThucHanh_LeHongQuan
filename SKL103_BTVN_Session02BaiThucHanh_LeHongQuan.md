@@ -1,6 +1,9 @@
 BÀI THỰC HÀNH: WBS – DoD – KANBAN
+
 Đề tài: Khảo sát thói quen sử dụng máy tính và điện thoại thông minh phục vụ học tập của sinh viên năm nhất.
+
 Nhiệm vụ 1. Xây dựng bảng chia việc nhỏ WBS
+
 Nhóm chia bài tập thành 3 giai đoạn chính, mỗi giai đoạn gồm các công việc nhỏ, có người phụ trách và kết quả đầu ra cụ thể.
 
 | Giai đoạn | Công việc cụ thể | nguoi phụ trách | Sản phẩm đầu ra | 
