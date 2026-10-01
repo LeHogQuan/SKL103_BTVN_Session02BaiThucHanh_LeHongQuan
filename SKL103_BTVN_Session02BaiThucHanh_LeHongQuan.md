@@ -73,7 +73,11 @@ Nếu một công việc bị vướng mắc, thành viên phải thông báo tr
 Nhóm cập nhật bảng Kanban sau mỗi buổi họp hoặc khi trạng thái công việc thay đổi.
 
 Tên thành viên nhóm: 
+
 Vũ Minh Quân
+
 Lê Hồng Quân
+
 Cao Bảo Lâm
+
 Đỗ Trung Kiên
