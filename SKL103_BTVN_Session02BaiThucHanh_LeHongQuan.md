@@ -84,7 +84,7 @@ Nhóm sử dụng 3 cột To Do – In Progress – Done để theo dõi trạng
 | viết cơ sở lý thuyết(lan) | | |
 | định dạng báo cáo word(trang) | | |
 | thiết kế slide(Hoàng) | 
-| kiểm trả và tập thuyết tròm(cả nhóm) | | |
+| kiểm trả và tập thuyết trình(cả nhóm) | | |
 
 Quy tắc vận hành Kanban
 
