@@ -71,3 +71,9 @@ In Progress: Thành viên đang thực hiện; mỗi người chỉ được có
 Done: Chỉ chuyển thẻ sang Done khi sản phẩm đã hoàn thành và đáp ứng tiêu chuẩn DoD.
 Nếu một công việc bị vướng mắc, thành viên phải thông báo trong buổi họp nhóm để được hỗ trợ, không tự ý ôm thêm việc mới.
 Nhóm cập nhật bảng Kanban sau mỗi buổi họp hoặc khi trạng thái công việc thay đổi.
+
+Tên thành viên nhóm: 
+Vũ Minh Quân
+Lê Hồng Quân
+Cao Bảo Lâm
+Đỗ Trung Kiên
