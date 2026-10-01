@@ -27,7 +27,7 @@ Nhóm chia bài tập thành 3 giai đoạn chính, mỗi giai đoạn gồm cá
 Nhiệm vụ 2. Thiết lập tiêu chuẩn hoàn thành DoD
 
 2.1. Checklist DoD cho file báo cáo Word
-# Checklist báo cáo Word
+### Checklist báo cáo Word
 
 -Có trang bìa ghi tên đề tài, tên thành viên, lớp và môn học.
 
@@ -53,7 +53,7 @@ Nhiệm vụ 2. Thiết lập tiêu chuẩn hoàn thành DoD
 
 2.2. Checklist DoD cho file Slide
 
-# Checklist Slide
+### Checklist Slide
 
 -Có từ 8–12 slide, gồm tiêu đề, nội dung chính và kết luận.
 
