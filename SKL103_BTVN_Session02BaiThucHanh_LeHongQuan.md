@@ -58,7 +58,7 @@ Nhóm sử dụng 3 cột To Do – In Progress – Done để theo dõi trạng
 | tổng hợp biểu đồ khảo sát(Trang) | Tìm tài liệu tham khảo(Lan) | Đọc và phân tích đề bài(Hoàng) |
 | viết phần mở đầu(HOàng) | Thu nhập câu trả lời(Huy) | Soạn google forms |
 | viết cơ sở lý thuyết(lan) | | |
-| định dạng báo cáo word | | |
+| định dạng báo cáo word(trang) | | |
 | thiết kế slide(Hoàng) | 
 | kiểm trả và tập thuyết tròm(cả nhóm) | | |
 
