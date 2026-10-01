@@ -43,7 +43,7 @@ Nhiệm vụ 2. Thiết lập tiêu chuẩn hoàn thành DoD
 
 -Có danh mục tài liệu tham khảo và trích dẫn nguồn đầy đủ.
 
--Font Times New Roman, cỡ chữ 13 hoặc 14; tiêu đề phân cấp rõ ràng.
+-Font Times New Roman, cỡ chữ 13 hoặc 14, tiêu đề phân cấp rõ ràng.
 
 -Đã kiểm tra lỗi chính tả, số liệu, định dạng và tính thống nhất.
 
