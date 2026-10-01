@@ -91,10 +91,15 @@ Nhóm sử dụng 3 cột To Do – In Progress – Done để theo dõi trạng
 | kiểm trả và tập thuyết tròm(cả nhóm) | | |
 
 Quy tắc vận hành Kanban
+
 To Do: Công việc đã được xác định nhưng chưa bắt đầu.
+
 In Progress: Thành viên đang thực hiện; mỗi người chỉ được có tối đa 2 thẻ tại cột này.
+
 Done: Chỉ chuyển thẻ sang Done khi sản phẩm đã hoàn thành và đáp ứng tiêu chuẩn DoD.
+
 Nếu một công việc bị vướng mắc, thành viên phải thông báo trong buổi họp nhóm để được hỗ trợ, không tự ý ôm thêm việc mới.
+
 Nhóm cập nhật bảng Kanban sau mỗi buổi họp hoặc khi trạng thái công việc thay đổi.
 
 Tên thành viên nhóm: 
